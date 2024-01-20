@@ -14,6 +14,7 @@
 		4B6D31782B363A7200CA5635 /* SHARETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B6D31772B363A7200CA5635 /* SHARETests.swift */; };
 		4B6D31822B363A7300CA5635 /* SHAREUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B6D31812B363A7300CA5635 /* SHAREUITests.swift */; };
 		4B6D31842B363A7300CA5635 /* SHAREUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B6D31832B363A7300CA5635 /* SHAREUITestsLaunchTests.swift */; };
+		4B6D31912B5C3BC300CA5635 /* Toolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B6D31902B5C3BC200CA5635 /* Toolbar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		4B6D317D2B363A7300CA5635 /* SHAREUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SHAREUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B6D31812B363A7300CA5635 /* SHAREUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHAREUITests.swift; sourceTree = "<group>"; };
 		4B6D31832B363A7300CA5635 /* SHAREUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHAREUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4B6D31902B5C3BC200CA5635 /* Toolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toolbar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				4B6D31682B363A6E00CA5635 /* ContentView.swift */,
 				4B6D316A2B363A7200CA5635 /* Assets.xcassets */,
 				4B6D316C2B363A7200CA5635 /* Preview Content */,
+				4B6D31902B5C3BC200CA5635 /* Toolbar.swift */,
 			);
 			path = SHARE;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B6D31912B5C3BC300CA5635 /* Toolbar.swift in Sources */,
 				4B6D31692B363A6E00CA5635 /* ContentView.swift in Sources */,
 				4B6D31672B363A6E00CA5635 /* SHAREApp.swift in Sources */,
 			);
